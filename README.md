@@ -12,21 +12,22 @@
 </p>
 
 <div align="center">
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/TU_USUARIO/count.svg" alt="Visitor count"/>
-  <br/>
+  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas&color=0e75b6&style=for-the-badge" alt="Visitas del perfil" />
 </div>
 
 ---
 
-## 👩‍💻 Sobre mí
+## Sobre mí
 
-- 🎓 Estudiante de **Ingeniería de Sistemas**.
-- 🛠 He desarrollado un proyecto en **C++**.
-- 📊 Me interesa el análisis de datos con **SQL**, **Python** y **Power BI**.
-- 🌐 Practico desarrollo web con **HTML** y **CSS**.
-- 🌱 Estoy construyendo mi portafolio y aprendiendo buenas prácticas con **Git** y **GitHub**.
-- 💬 Pregúntame sobre mi proyecto en C++.
+Estudiante de Ingeniería de Sistemas con interés en el desarrollo de software y el análisis de datos. He desarrollado un proyecto en C++ y continúo ampliando mis conocimientos en programación, bases de datos y visualización de datos.
+
+**Áreas de interés**
+
+- Desarrollo de software y programación en C++ y Python
+- Gestión y consulta de bases de datos con SQL
+- Visualización de datos con Power BI
+- Desarrollo web con HTML y CSS
+- Control de versiones con Git y GitHub
 
 ---
 
