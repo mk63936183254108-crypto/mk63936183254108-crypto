@@ -12,7 +12,7 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas&color=0e75b6&style=for-the-badge" alt="Visitas del perfil" />
+  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=%F0%9F%91%81&color=0e75b6&style=flat" alt="" />
 </div>
 
 ---
@@ -62,7 +62,7 @@ Estudiante de Ingeniería de Sistemas con interés en el desarrollo de software 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
 | **Nombre de tu proyecto** | Breve descripción de lo que hace tu proyecto en C++ | `C++` |
-| *Próximamente* | Nuevos proyectos en camino | `Python` · `SQL` · `Power BI` |
+| *Próximamente* | Nuevos proyectos en desarrollo | `Python` · `SQL` · `Power BI` |
 
 ---
 
@@ -79,7 +79,7 @@ Estudiante de Ingeniería de Sistemas con interés en el desarrollo de software 
 
 ---
 
-## 🤝 Conectemos
+## 🤝 Contacto
 
 <div align="center">
   <a href="https://www.linkedin.com/in/frida-avi-karhlo-978696423/"><img alt="LinkedIn" src="https://img.shields.io/badge/Conectar%20en%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
