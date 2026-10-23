@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Programadora%20en%20C%2B%2B;Siempre%20aprendiendo%20cosas%20nuevas;Echa%20un%20vistazo%20por%20aqu%C3%AD%20%F0%9F%91%80;Escr%C3%ADbeme%20si%20quieres%20conectar!%20%F0%9F%92%AC&font=Fira%20Code&center=true&width=440&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Estudiante%20de%20Ingenier%C3%ADa%20de%20Sistemas;Programando%20en%20C%2B%2B%20y%20Python;Aprendiendo%20SQL%20y%20Power%20BI;Echa%20un%20vistazo%20por%20aqu%C3%AD%20%F0%9F%91%80;Escr%C3%ADbeme%20si%20quieres%20conectar!%20%F0%9F%92%AC&font=Fira%20Code&center=true&width=440&height=45">
 </p>
 
 <p align="center">
@@ -17,8 +17,9 @@
 
 ---
 
-- 👩‍💻 Estoy empezando en la programación y aprendiendo cada día.
+- 🎓 Estudiante de **Ingeniería de Sistemas**.
 - 🛠 He desarrollado un proyecto en **C++**.
+- 📊 Me interesa el análisis de datos con **SQL** y **Power BI**.
 - 🌱 Sigo practicando y construyendo nuevos proyectos.
 - 💬 Pregúntame sobre mi proyecto en C++.
 
@@ -27,6 +28,12 @@
 #### 🔧 Lenguajes
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### 📊 Análisis de datos
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 #### 🔧 Herramientas
 
