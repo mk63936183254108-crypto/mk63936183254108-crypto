@@ -1,81 +1,87 @@
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,14,18,24&section=header&text=Avigail%20Milca&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudiante%20de%20Ingenier%C3%ADa%20de%20Sistemas&descAlignY=58&descSize=20" />
 </div>
 
-<h3 align="center">
-  Hola, soy Avigail Milca
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Estudiante%20de%20Ingenier%C3%ADa%20de%20Sistemas;Programando%20en%20C%2B%2B%20y%20Python;Aprendiendo%20SQL%20y%20Power%20BI;Echa%20un%20vistazo%20por%20aqu%C3%AD%20%F0%9F%91%80;Escr%C3%ADbeme%20si%20quieres%20conectar!%20%F0%9F%92%AC&font=Fira%20Code&center=true&width=440&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Programaci%C3%B3n%20en%20C%2B%2B%20y%20Python;Desarrollo%20web%20con%20HTML%20y%20CSS;Bases%20de%20datos%20con%20SQL;Visualizaci%C3%B3n%20de%20datos%20con%20Power%20BI;Siempre%20aprendiendo%20cosas%20nuevas%20%F0%9F%9A%80&font=Fira%20Code&center=true&width=600&height=45&color=95CCFF&vCenter=true&pause=1000" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img alt="Visitas" src="https://visitor-badge.laobi.icu/badge?page_id=TU_USUARIO.TU_USUARIO">
+  <a href="https://www.linkedin.com/in/frida-avi-karhlo-978696423/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/TU_USUARIO"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
+<div align="center">
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/TU_USUARIO/count.svg" alt="Visitor count"/>
+  <br/>
+</div>
 
 ---
+
+## 👩‍💻 Sobre mí
 
 - 🎓 Estudiante de **Ingeniería de Sistemas**.
 - 🛠 He desarrollado un proyecto en **C++**.
-- 📊 Me interesa el análisis de datos con **SQL** y **Power BI**.
-- 🌱 Sigo practicando y construyendo nuevos proyectos.
+- 📊 Me interesa el análisis de datos con **SQL**, **Python** y **Power BI**.
+- 🌐 Practico desarrollo web con **HTML** y **CSS**.
+- 🌱 Estoy construyendo mi portafolio y aprendiendo buenas prácticas con **Git** y **GitHub**.
 - 💬 Pregúntame sobre mi proyecto en C++.
+
+---
 
 ## 🛠 Tecnologías
 
-#### 🔧 Lenguajes
+#### 💻 Lenguajes
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### 📊 Análisis de datos
+#### 🌐 Desarrollo web
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### 📊 Datos y análisis
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 #### 🔧 Herramientas
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 📊 Estadísticas del perfil
+---
+
+## 🚀 Proyectos
+
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| **Nombre de tu proyecto** | Breve descripción de lo que hace tu proyecto en C++ | `C++` |
+| *Próximamente* | Nuevos proyectos en camino | `Python` · `SQL` · `Power BI` |
+
+---
+
+## 📈 Estadísticas de GitHub
 
 <div align="center">
-
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
-### ⏱ Racha de contribuciones
-
 <div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TU_USUARIO&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
-
-</div>
-
-### 📈 Gráfico de actividad
-
-[![Actividad](https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### 📊 Lenguaje más usado
-
-<div align="center">
-
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs?username=TU_USUARIO&layout=compact&theme=radical)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
 </div>
 
 ---
 
-### 🔗 Contacto
+## 🤝 Conectemos
 
 <div align="center">
-<a href="https://www.linkedin.com/in/frida-avi-karhlo-978696423/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/frida-avi-karhlo-978696423/"><img alt="LinkedIn" src="https://img.shields.io/badge/Conectar%20en%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
----
-
-<h6 align="center">👇🏻 Aquí irán mis proyectos 👇🏻</h6>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,14,18,24&section=footer" />
